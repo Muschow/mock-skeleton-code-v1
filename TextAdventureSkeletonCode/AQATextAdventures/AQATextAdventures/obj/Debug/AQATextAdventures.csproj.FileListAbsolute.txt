@@ -1,0 +1,13 @@
+F:\My Documents\KS5\SkeletonCode\AQATextAdventures2019\AQATextAdventures\AQATextAdventures\bin\Debug\AQATextAdventures.exe.config
+F:\My Documents\KS5\SkeletonCode\AQATextAdventures2019\AQATextAdventures\AQATextAdventures\bin\Debug\AQATextAdventures.exe
+F:\My Documents\KS5\SkeletonCode\AQATextAdventures2019\AQATextAdventures\AQATextAdventures\bin\Debug\AQATextAdventures.pdb
+F:\My Documents\KS5\SkeletonCode\AQATextAdventures2019\AQATextAdventures\AQATextAdventures\obj\Debug\AQATextAdventures.csprojAssemblyReference.cache
+F:\My Documents\KS5\SkeletonCode\AQATextAdventures2019\AQATextAdventures\AQATextAdventures\obj\Debug\AQATextAdventures.csproj.CoreCompileInputs.cache
+F:\My Documents\KS5\SkeletonCode\AQATextAdventures2019\AQATextAdventures\AQATextAdventures\obj\Debug\AQATextAdventures.exe
+F:\My Documents\KS5\SkeletonCode\AQATextAdventures2019\AQATextAdventures\AQATextAdventures\obj\Debug\AQATextAdventures.pdb
+F:\Computing\SkeletonCode\TextAdventureSkeletonCode\AQATextAdventures\AQATextAdventures\bin\Debug\AQATextAdventures.exe.config
+F:\Computing\SkeletonCode\TextAdventureSkeletonCode\AQATextAdventures\AQATextAdventures\bin\Debug\AQATextAdventures.exe
+F:\Computing\SkeletonCode\TextAdventureSkeletonCode\AQATextAdventures\AQATextAdventures\bin\Debug\AQATextAdventures.pdb
+F:\Computing\SkeletonCode\TextAdventureSkeletonCode\AQATextAdventures\AQATextAdventures\obj\Debug\AQATextAdventures.csproj.CoreCompileInputs.cache
+F:\Computing\SkeletonCode\TextAdventureSkeletonCode\AQATextAdventures\AQATextAdventures\obj\Debug\AQATextAdventures.exe
+F:\Computing\SkeletonCode\TextAdventureSkeletonCode\AQATextAdventures\AQATextAdventures\obj\Debug\AQATextAdventures.pdb
